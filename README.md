@@ -32,6 +32,7 @@
   <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="nodejs" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="webpack" src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?flat-square&logo=webpack&logoColor=black" />
 </div>
 
 ---
@@ -41,6 +42,7 @@
 <div>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
 </div>
 
 ---
@@ -49,6 +51,8 @@
 
 <div>
     <img alt="figma" src="https://img.shields.io/badge/Figma-A020F0?style=flat-square&logo=figma&logoColor=white" />
+    <img alt="ai" src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?flat-square&logo=adobe%20illustrator&logoColor=white" />
+    <img alt="ps" src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
     <img alt="vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
     <img alt="gnu_bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" />
