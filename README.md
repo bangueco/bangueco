@@ -1,14 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&pause=1000&color=53F7F2&random=false&width=435&lines=Hello%2C+I+am+ivandnd;Information+Technology+Student;Self+Taught+Programmer;Aspiring+Full-Stack+Developer" />
-</p>
+<h1 align="center">Hello, I am Ivan Gueco</h1>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ivandnd&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/badge/STATUS-ALIVE-success?style=for-the-badge" alt="status"/>
-<img src="https://img.shields.io/badge/Age-21-yellow?style=for-the-badge" alt="age" />
-</p>
-
----
+#### I'm a college student aspiring to be a web developer, I love learning and exploring new things and solving problems with creative ideas. 
 
 **Languages:**
 
@@ -50,9 +42,6 @@
 **Tools:**
 
 <div>
-    <img alt="figma" src="https://img.shields.io/badge/Figma-A020F0?style=flat-square&logo=figma&logoColor=white" />
-    <img alt="ai" src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?flat-square&logo=adobe%20illustrator&logoColor=white" />
-    <img alt="ps" src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
     <img alt="vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
     <img alt="gnu_bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" />
