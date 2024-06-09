@@ -12,6 +12,7 @@
   <img alt="c++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="c#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
 </div>
 
 ---
@@ -23,10 +24,13 @@
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="react.js" src="https://img.shields.io/badge/React.js-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+  <img alt="react native" src="https://img.shields.io/badge/React Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
   <img alt="express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
   <img alt="nodejs" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="webpack" src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?flat-square&logo=webpack&logoColor=black" />
+  <img alt="flask" src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" />
 </div>
 
 ---
@@ -37,6 +41,8 @@
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="sqlite" src="https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 </div>
 
 ---
@@ -48,6 +54,8 @@
     <img alt="gnu_bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" />
     <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+    <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
+    <img alt="xampp" src="https://img.shields.io/badge/Xampp-F37623?style=flat-square&logo=xampp&logoColor=white" />
 </div>
 
 ---
