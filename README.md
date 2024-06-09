@@ -2,6 +2,11 @@
 
 👋 Hey there! I'm a passionate college student with a dream to become a proficient web/mobile developer. My journey revolves around the love for learning, exploring the endless possibilities of the digital world, and crafting innovative solutions to challenges. Whether it's unraveling the intricacies of code or designing captivating user experiences, I thrive on the thrill of problem-solving and the satisfaction of seeing ideas come to life. Let's connect and embark on this exciting journey together! 🚀
 
+<div align="center">
+  <a href="https://www.facebook.com/xxxjustentacion"><img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:nonexistent@gmail.com"><img alt="facebook" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
 **Languages:**
 
 <div>
