@@ -21,3 +21,7 @@ I'm currently upskilling myself into by diving deep java, and learning springboo
 <br>
 <br>
 [![Learning](https://skillicons.dev/icons?i=java,spring,docker,aws)](https://skillicons.dev)
+
+# Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bangueco&show_icons=true&locale=en&layout=donut&theme=onedark" alt="bangueco" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bangueco&theme=onedark" alt="bangueco" /></p>
