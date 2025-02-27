@@ -1,10 +1,10 @@
 ### Hi, I'm Ban 👋  
 
-A self-proclaimed full-stack developer, with a specific love for backend development, and a love-hate relationship with frontend development (I'm jk istg). I specialize in building web and mobile applications from scratch. I currently live in Bataan, Philippines 🇵🇭.  
+A self-proclaimed full-stack developer from Bataan, Philippines 🇵🇭, with a specific love for backend development, and a love-hate relationship with frontend development (I'm jk istg). I specialize in building web and mobile applications from scratch.
 
 ---
 
-#### about me 👨🏻  
+### About me 👨🏻  
 - 22 years old (old ahhh)  
 - 4th-year college student (graduating this year 2025)  
 - I love lifting weights to ease the pain (lightweight babyyy!)  
@@ -12,7 +12,7 @@ A self-proclaimed full-stack developer, with a specific love for backend develop
 
 ---
 
-#### technical skills 🖥️  
+### Technical skills 🖥️  
 List of technologies I use, have used, or am familiar with:  
 
 - **Languages:** TypeScript, JavaScript, Go, C#, Java  
